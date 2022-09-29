@@ -1,0 +1,32 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "USA",
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "country": "India",
+      "city": "Jaipur",
+      "population": "12345678",
+      "id": 3
+    },
+    {
+      "country": "USA",
+      "city": "Down Town",
+      "population": "3468345",
+      "id": 4
+    },
+    {
+      "country": "India",
+      "city": "Sikar",
+      "population": "1246347",
+      "id": 5
+    }
+  ]
+}
